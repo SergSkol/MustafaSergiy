@@ -1,0 +1,23 @@
+@media screen and (min-width: 1200px) and (max-width: 1600px)  {
+    #navbar {
+        position: fixed;
+        width: 160px;
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+      background-color: green;
+    }
+}
+
+#main-doc {
+    position: absolute;
+    margin-left: 150px;
+    padding: 30px;
+}
+
+.main-section header{
+    font-weight: bold;
+}
